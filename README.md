@@ -5,7 +5,7 @@ You can access the required audio files here:
 [📁 Google Drive - Audio Dataset](https://drive.google.com/drive/folders/1eqK8c7NQd83KrTEs00D2Ejp31qTNXtl8?usp=sharing)
 # 🫁 Lung Cancer Dataset (ZIP)
 Click below to download the Lung Cancer dataset directly from this repository:  
-[⬇️ Download Lung Cancer ZIP](https://github.com/yourusername/your-repo-name/raw/main/lung_cancer_dataset.zip)
+[⬇️ Download Lung Cancer ZIP](https://github.com/shivanich92/daup_project_2078/blob/main/lungcancer.zip)
 
 
 
